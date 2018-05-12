@@ -1,0 +1,32 @@
+_repo: Reis-naar-Yucatan--13-De-Aarde-en-haar-Volken-1886_13346
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Charnay, Désiré
+    aliases:
+    - Charnay, Claude-Joseph-Désiré
+    - Charnay, Desire
+    birthdate: 1828
+    deathdate: 1915
+    gutenberg_agent_id: '5013'
+    url: http://www.gutenberg.org/2009/agents/5013
+    wikipedia: http://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Charnay
+description: Many of the photographs after which the woodcuts are made after can be
+  seen at http://www.amphilsoc.org/library/mole/a/abbot.htm
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13346'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yucatán (Mexico : State) -- Description and travel'
+- !lcc 'F1201'
+title: "Reis naar Yucatan\r\nDe Aarde en haar Volken, 1886"
+url: http://www.gutenberg.org/ebooks/13346
